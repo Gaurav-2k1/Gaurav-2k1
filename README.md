@@ -1,4 +1,4 @@
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"> , I'm Gaurav Bhukte
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> , I'm Gaurav Bhukte
 
 <h3 align="center">A passionate MERN Stack Developer!</h3>
 
